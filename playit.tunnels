@@ -6,7 +6,7 @@
   },
   "tunnels": [
     {
-      "active": true,
+      "active": false,
       "alloc": {
         "data": {
           "assigned_domain": "stories-cards.gl.joinmc.link",
